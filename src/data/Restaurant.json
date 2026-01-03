@@ -1,0 +1,58 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Green Garden Restaurant",
+      "rating": 4.2,
+      "cuisine": ["Nepali", "Vegetarian"],
+      "deliveryTime": "20-30 mins",
+      "priceForTwo": "$15",
+      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=400&h=300&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Royal Spice",
+      "rating": 4.0,
+      "cuisine": ["Indian", "Non-Veg"],
+      "deliveryTime": "25-35 mins",
+      "priceForTwo": "$20",
+      "image": "https://images.unsplash.com/photo-1551218808-94e220e084d2?auto=format&fit=crop&w=400&h=300&q=80"
+    },
+    {
+      "id": 3,
+      "name": "The Coffee Hub",
+      "rating": 4.5,
+      "cuisine": ["Cafe", "Snacks"],
+      "deliveryTime": "15-20 mins",
+      "priceForTwo": "$10",
+      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=400&h=300&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Mountain View Dhaba",
+      "rating": 4.3,
+      "cuisine": ["Nepali", "Indian"],
+      "deliveryTime": "20-30 mins",
+      "priceForTwo": "$18",
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=400&h=300&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Spice Villa",
+      "rating": 4.1,
+      "cuisine": ["Indian", "Vegetarian", "Non-Veg"],
+      "deliveryTime": "25-35 mins",
+      "priceForTwo": "$22",
+      "image": "https://images.unsplash.com/photo-1598511724074-fda183f007d3?auto=format&fit=crop&w=400&h=300&q=80"
+    },
+    {
+      "id": 6,
+      "name": "River Side Cafe",
+      "rating": 4.4,
+      "cuisine": ["Cafe", "Bakery"],
+      "deliveryTime": "15-25 mins",
+      "priceForTwo": "$12",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&h=300&q=80"
+    }
+  ]
+}
