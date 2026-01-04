@@ -1,0 +1,15 @@
+{
+  "foods": [
+    { "id": 1, "name": "Momo", "type": "Veg", "cuisine": "Nepali", "price": "$3", "image": "https://images.unsplash.com/photo-1604908177523-1f0e6e1a6f87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=400" },
+    { "id": 2, "name": "Chicken Momo", "type": "Non-Veg", "cuisine": "Nepali", "price": "$4", "image": "https://images.unsplash.com/photo-1601312375033-9335b2f728b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=400" },
+    { "id": 3, "name": "Dal Bhat", "type": "Veg", "cuisine": "Nepali", "price": "$5", "image": "https://images.unsplash.com/photo-1598514983007-0b6a6a0c3f35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=400" },
+    { "id": 4, "name": "Thukpa", "type": "Non-Veg", "cuisine": "Nepali", "price": "$4", "image": "https://images.unsplash.com/photo-1589307000171-4c1f4f0463c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=400" },
+    { "id": 5, "name": "Paneer Tikka", "type": "Veg", "cuisine": "Indian", "price": "$6", "image": "https://images.unsplash.com/photo-1622278499053-d98a9bb96345?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=400" },
+    { "id": 6, "name": "Butter Chicken", "type": "Non-Veg", "cuisine": "Indian", "price": "$7", "image": "https://images.unsplash.com/photo-1625563144562-d0f54400ee21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=400" },
+    { "id": 7, "name": "Biryani", "type": "Non-Veg", "cuisine": "Indian", "price": "$8", "image": "https://images.unsplash.com/photo-1617196034483-d21e858e4a4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=400" },
+    { "id": 8, "name": "Chole Bhature", "type": "Veg", "cuisine": "Indian", "price": "$5", "image": "https://images.unsplash.com/photo-1603070166895-32f7f6c2f68a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=400" },
+    { "id": 9, "name": "Masala Dosa", "type": "Veg", "cuisine": "Indian", "price": "$4", "image": "https://images.unsplash.com/photo-1584270354949-4b41e2da18a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=400" },
+    { "id": 10, "name": "Veg Burger", "type": "Veg", "cuisine": "Fast Food", "price": "$4", "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=400" }
+    
+  ]
+}
